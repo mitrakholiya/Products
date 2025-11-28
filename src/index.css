@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.r1{
+  width: 300px !important;
+}
+
+.border1{
+  border-bottom: 2px solid blue;
+}
+
+.btn{
+  border:2px solid white;
+  border-radius: 20px;
+  margin-left: 10px;
+}
